@@ -1,0 +1,16 @@
+# Compiled Java classes
+*.class
+
+# WAR files
+*.war
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# macOS metadata
+.DS_Store
+
+# Logs
+*.log
